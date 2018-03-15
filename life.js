@@ -1,4 +1,4 @@
-const w = process.stdout.columns
+const w = process.stdout.columns;
 const h = process.stdout.rows;
 const something = '■';
 const nothing = ' ';
